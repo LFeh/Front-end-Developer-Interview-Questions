@@ -208,7 +208,7 @@ $(".foo div#bar:eq(0)")
 * Como você desenvolve sua página para browsers com recursos limitados?
   * Quais técnicas/processos você usa?
 * Quais são as diferentes formas de visualizar conteúdo escondido (e como fazer para deixar eles disponíveis apenas para leitores de tela?)
-* VoCê já utilizou algum sistema de grid, se sim, qual você prefere?
+* Você já utilizou algum sistema de grid, se sim, qual você prefere?
 * Você já utilizou ou implementou media queries ou css's específicos para mobile?
 * Qual sua familiaridade com SVG?
 * Como você optimiza suas páginas para impressão?
